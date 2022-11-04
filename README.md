@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Łukasz Greiner (20yo)
-- 👀 I’m interested in macro photography, geocaching, new technologies and code
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on any project
+- 👀 I’m interested in macro photography, geocaching and new technologies.
+- 🌱 I’m currently learning JavaScript by doing own projects, watching Jonas Schmedtmann crash-course and playing codewars.
+- 💞️ I’m looking to collaborate on any project / looking for an internship.
 - 📫 How to reach me devlukaszgreiner@gmail.com
 
 <!---
