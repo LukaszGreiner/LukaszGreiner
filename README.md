@@ -7,14 +7,14 @@
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me: devlukaszgreiner@gmail.com
 
-🛠️ My stack:
+🛠️ My Favorite Tools
 
 ![html5](https://user-images.githubusercontent.com/27769893/202849284-affc6589-300e-4d2e-8748-31a40c91ee74.svg)
 ![css3](https://user-images.githubusercontent.com/27769893/202849287-0f9dfe29-384f-4fb6-8b4e-27ed6023a1d4.svg)
 ![javascript](https://user-images.githubusercontent.com/27769893/202849289-1888a035-b487-490d-96ea-5b74e4cbfcfb.svg)
 ![git](https://user-images.githubusercontent.com/27769893/202849291-0b6171db-9132-4ad6-8c80-811e04bd06a3.svg)
 
-Githubs stats:
+📊 Github Stats and Activity
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LukaszGreiner&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
