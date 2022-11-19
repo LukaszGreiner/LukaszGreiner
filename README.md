@@ -14,8 +14,7 @@
 
 Githubs stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LukaszGreiner&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=LukaszGreiner&theme=Javascript-dark&hide_border=true)](https://git.io/streak-stats)
 
 <!---
 LukaszGreiner/LukaszGreiner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
