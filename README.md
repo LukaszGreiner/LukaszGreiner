@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F627&center=true&vCenter=true&multiline=true&height=75&lines=Wannabe+Front-end+developer;Looking+for+my+first+job)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F627&vCenter=true&multiline=true&width=350&height=75&lines=Wannabe+Front-end+developer;Looking+for+my+first+job)](https://git.io/typing-svg)
 
 👨‍💻 About Me :
 - 👋 Hi, I’m @Łukasz Greiner (20yo)
