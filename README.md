@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lukasz)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LukaszGreiner&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 👨‍💻 About Me :
 - 👋 Hi, I’m @Łukasz Greiner (20yo)
