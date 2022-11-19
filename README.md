@@ -6,6 +6,7 @@
 - 📫 How to reach me: devlukaszgreiner@gmail.com
 
 🛠️ My stack:
+
 ![html5](https://user-images.githubusercontent.com/27769893/202849284-affc6589-300e-4d2e-8748-31a40c91ee74.svg)
 ![css3](https://user-images.githubusercontent.com/27769893/202849287-0f9dfe29-384f-4fb6-8b4e-27ed6023a1d4.svg)
 ![javascript](https://user-images.githubusercontent.com/27769893/202849289-1888a035-b487-490d-96ea-5b74e4cbfcfb.svg)
