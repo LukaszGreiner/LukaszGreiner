@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lukasz)](https://git.io/streak-stats)
+
 👨‍💻 About Me :
 - 👋 Hi, I’m @Łukasz Greiner (20yo)
 - 👀 I’m interested in cooking, macrophotography and geocaching.
