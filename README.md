@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F627&vCenter=true&multiline=true&width=350&height=75&lines=Wannabe+Front-end+developer;Looking+for+my+first+job)](https://git.io/typing-svg)
 
 👨‍💻 About Me :
-- 👋 Hi, I’m @Łukasz Greiner (20yo)
+- 👋 Hi, I’m @Łukasz Greiner
 - 👀 I’m interested in cooking, macrophotography and geocaching.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on any project.
