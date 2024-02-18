@@ -14,9 +14,10 @@
 ![javascript](https://user-images.githubusercontent.com/27769893/202849289-1888a035-b487-490d-96ea-5b74e4cbfcfb.svg)
 ![git](https://user-images.githubusercontent.com/27769893/202849291-0b6171db-9132-4ad6-8c80-811e04bd06a3.svg)
 
+<!---
 📊 Github Stats and Activity
 
-<!--- [![GitHub Streak](https://streak-stats.demolab.com?user=LukaszGreiner&theme=dark&hide_border=true)](https://git.io/streak-stats) ---> 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=LukaszGreiner&theme=dark&hide_border=true)](https://git.io/streak-stats) ---> 
 
 <!---
 LukaszGreiner/LukaszGreiner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
