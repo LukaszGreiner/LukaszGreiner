@@ -2,10 +2,10 @@
 
 👨‍💻 About Me :
 - 👋 Hi, I’m @Łukasz Greiner
-- 👀 I’m interested in cooking, macrophotography and geocaching.
+- 👀 I’m interested in programming, AI and cooking.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on any project.
-- 📫 How to reach me: devlukaszgreiner@gmail.com
+- 📫 How to reach me: greinerlukasz@gmail.com
 
 🛠️ My Favorite Tools
 
