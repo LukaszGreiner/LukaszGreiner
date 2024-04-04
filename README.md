@@ -3,7 +3,7 @@
 👨‍💻 About Me :
 - 👋 Hi, I’m @Łukasz Greiner
 - 👀 I’m interested in programming, AI and cooking.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me: greinerlukasz@gmail.com
 
